@@ -1,9 +1,4 @@
-# Robosub 2020
-#  
-# -- Revision log --
-# 011920: Start
-#  
-#
+# Quick conversion from Arduino code. Needs refactoring.
 
 # Servo driver board
 
