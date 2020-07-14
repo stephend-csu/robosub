@@ -1,1 +1,1 @@
-Quick conversion. Needs refactoring.
+Quick Python conversion. Needs refactoring.
